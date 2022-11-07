@@ -4,4 +4,4 @@ This project implements this [Figma design](https://www.figma.com/file/Ujp7bCFuv
 
 Layout created using HTML and SCSS according to BEM methodology.
 
-[WORKING DEMO](https://adrqq.github.io/Kickstarter/)
+[WORKING DEMO](https://adrqq.github.io/KickstarterLanding/)
